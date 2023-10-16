@@ -1,0 +1,19 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.06"]
+[Round "?"]
+[White "tamasmakos"]
+[Black "cartierer"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "528"]
+[BlackElo "497"]
+[TimeControl "300"]
+[EndTime "9:08:43 PDT"]
+[Termination "tamasmakos won by resignation"]
+
+1. e4 d6 2. d4 Nf6 3. e5 dxe5 4. dxe5 Qxd1+ 5. Kxd1 Nd5 6. Nc3 e6 7. Bc4 Nxc3+
+8. bxc3 Nc6 9. Nf3 Bc5 10. Ke2 O-O 11. Rd1 Rd8 12. Rxd8+ Nxd8 13. Kf1 Nc6 14.
+Bf4 Na5 15. Rd1 Nxc4 16. Rd8+ Bf8 17. Nd4 Nd2+ 18. Bxd2 f6 19. c4 fxe5 20. Bb4
+Kf7 21. Rxf8+ Kg6 22. Nxe6 Bxe6 23. Rxa8 Bxc4+ 24. Ke1 e4 25. Rxa7 c5 26. Bxc5
+b5 27. Rb7 Bxa2 28. Rxb5 Bd5 29. Bd4 h5 30. Rxd5 1-0
